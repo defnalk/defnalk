@@ -1,33 +1,35 @@
-
-# Hi, I'm Defne 👋☕
+# Hi, I'm Defne 👋
 
 I'm a Chemical Engineering student at Imperial College London building scientific Python tools for carbon capture, energy systems, process modelling, and thermal systems.
 
 My work sits at the intersection of **carbon capture and pilot plant analysis**, **reactor and separation process modelling**, **solar and nuclear energy systems**, and **scientific software engineering**.
 
+<p align="center">
+  <img src="arch_strip.png" alt="Repository overview" width="100%"/>
+</p>
+
 ---
 
 ## Start here
 
-If you're new to my work, these are the best places to start:
-
 ### [`meapy`](https://github.com/defnalk/meapy)
-A typed, tested Python package for the core calculations used in MEA-based carbon capture pilot plant commissioning and evaluation.
-- Turns pilot-plant calculations into reusable scientific software
-- Focuses on reliability, validation, and engineering clarity
-- Strongest example of production-style package structure
+Production-grade calculation engine for MEA-based post-combustion CO₂ capture. Implements LMTD and NTU-effectiveness methods for plate heat exchangers, K_OGa mass-transfer profiling along packed absorber columns, and pump commissioning via exponential/linear regression with constraint-based safe-speed determination. Zero magic numbers — every constant is sourced and cited.
 
 ### [`tandem-solar`](https://github.com/defnalk/tandem-solar)
-A simulation toolkit for perovskite–silicon tandem solar modules, including I–V modelling, terminal configurations, CTM losses, and bypass diode behaviour.
-- Device-to-module level modelling
-- Combines numerical methods with energy-system relevance
-- Physics-aware simulation code
+Device-to-module simulator for perovskite–silicon tandem photovoltaics. Solves single-diode I–V equations across series/parallel terminal configurations, applies cell-to-module optical and resistive loss models, and simulates bypass diode activation under partial shading. Built for rapid parameter sweeps over module architectures.
 
 ### [`cooltower`](https://github.com/defnalk/cooltower)
-A Python package for psychrometrics, steady-flow balances, and PI controller tuning in cooling tower analysis.
-- Strong engineering fundamentals
-- Practical thermofluids + controls application
-- Typed, validated scientific code
+Mechanical-draught cooling tower analysis library covering psychrometric state calculations (Buck 1981, Sprung), steady-flow energy and mass balances with back-calculated air flow rates, and FOPDT-based PI controller tuning (lambda/IMC, Ziegler–Nichols, Cohen–Coon). Includes closed-loop simulation with velocity-form anti-windup and ISE/IAE/ITAE scoring.
+
+---
+
+## Representative outputs
+
+<p align="center">
+  <img src="hero_plots.png" alt="Sample outputs from meapy, formaldehyde-reactor, cooltower, and htgr-desalination" width="100%"/>
+</p>
+
+<sub><b>Left to right:</b> K<sub>OG</sub>a mass-transfer profile along an MEA absorber column (<code>meapy</code>) · HCHO yield and selectivity vs. temperature for a packed-bed PFR (<code>formaldehyde-reactor</code>) · PI closed-loop step response with lambda tuning (<code>cooltower</code>) · Normalised reactor power transient from a reactivity insertion (<code>htgr-desalination</code>)</sub>
 
 ---
 
@@ -50,10 +52,10 @@ Scientific modelling · Process systems · Thermodynamics · Heat and mass trans
 | Repository | Description |
 |---|---|
 | [`meapy`](https://github.com/defnalk/meapy) | MEA carbon capture pilot-plant calculations |
-| [`tandem-solar`](https://github.com/defnalk/tandem-solar) | Tandem solar cell/module simulation |
-| [`cooltower`](https://github.com/defnalk/cooltower) | Cooling tower psychrometrics and controls |
-| [`htgr-desalination`](https://github.com/defnalk/htgr-desalination) | HTGR + MED desalination simulation |
-| [`formaldehyde-reactor`](https://github.com/defnalk/formaldehyde-reactor) | Packed-bed PFR model |
+| [`tandem-solar`](https://github.com/defnalk/tandem-solar) | Perovskite–silicon tandem module simulation |
+| [`cooltower`](https://github.com/defnalk/cooltower) | Cooling tower psychrometrics and PI control |
+| [`htgr-desalination`](https://github.com/defnalk/htgr-desalination) | HTGR point kinetics + MED desalination |
+| [`formaldehyde-reactor`](https://github.com/defnalk/formaldehyde-reactor) | LHHW packed-bed PFR with Ergun pressure drop |
 | [`sepflows`](https://github.com/defnalk/sepflows) | Composable separation-process building blocks |
 
 ---
