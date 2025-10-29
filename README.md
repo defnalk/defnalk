@@ -1,5 +1,5 @@
 
-# Hi, I'm Defne 👋
+# Hi, I'm Defne 👋☕
 
 I'm a Chemical Engineering student at Imperial College London building scientific Python tools for carbon capture, energy systems, process modelling, and thermal systems.
 
