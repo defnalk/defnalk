@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Defne 👋</h1>
+<h1 align="center">Hi, I'm Defne ☕</h1>
 
 <p align="center">
   <b>Chemical Engineering @ Imperial College London</b><br/>
