@@ -15,7 +15,7 @@
 
 ---
 
-I build scientific Python tools and data systems for **carbon capture, energy systems, process modelling, and thermal systems**.
+I build scientific tools and data systems for **carbon capture, energy systems, process modelling, and thermal systems**.
 
 My work sits at the intersection of **carbon capture and pilot plant analysis**, **reactor and separation process modelling**, **solar and nuclear energy systems**, **data engineering for climate datasets**, and **scientific software engineering**.
 
