@@ -76,13 +76,6 @@ A typed, tested Python package for the core calculations used in MEA based **car
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/defnalk">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:defne.ertugrul24@imperial.ac.uk">
-    <img src="https://img.shields.io/badge/Email-defne.ertugrul24%40imperial.ac.uk-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+ />
   </a>
 </p>
