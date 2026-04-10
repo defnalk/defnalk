@@ -68,14 +68,5 @@ A typed, tested Python package for the core calculations used in MEA based **car
 
 ---
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=defnalk&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=defnalk&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
- />
   </a>
 </p>
