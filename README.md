@@ -1,12 +1,33 @@
 # Defne Nihal Ertugrul
 
-**MEng Chemical Engineering @ Imperial College London
+**MEng Chemical Engineering @ Imperial College London | Caltech Research Fellow**
 
 ---
 
 ## About
 
 I'm a chemical engineering student interested in computational modelling, energy systems, and the engineering challenges behind decarbonisation. I enjoy building tools that connect simulation and data analysis to real process design problems. I'm a Laidlaw Scholar and a research fellow at Caltech.
+
+---
+
+## Featured Project — `meapy`
+
+[![meapy CI](https://github.com/defnalk/meapy/actions/workflows/ci.yml/badge.svg)](https://github.com/defnalk/meapy/actions/workflows/ci.yml)
+[![Release](https://github.com/defnalk/meapy/actions/workflows/release.yml/badge.svg)](https://github.com/defnalk/meapy/actions/workflows/release.yml)
+[![CodeQL](https://github.com/defnalk/meapy/actions/workflows/codeql.yml/badge.svg)](https://github.com/defnalk/meapy/actions/workflows/codeql.yml)
+[![mypy strict](https://img.shields.io/badge/mypy-strict-2A6DB2)](https://github.com/defnalk/meapy)
+[![cosign](https://img.shields.io/badge/images-signed%20with%20cosign-4B0082)](https://github.com/defnalk/meapy)
+
+A typed, tested Python package for the core calculations used in MEA-based **carbon capture pilot plant** commissioning and evaluation — wrapped in the rigour of a production service:
+
+- 124 unit tests, ≥ 90 % coverage, `mypy --strict`, ruff lint+format
+- Multi-stage Docker image (non-root, < 150 MB) + Lambda and Cloud Run variants
+- GitHub Actions CI across **py3.10/3.11/3.12 × Ubuntu/macOS**, Codecov, Docker Scout
+- Tag-driven release: TestPyPI → PyPI (OIDC) → multi-arch GHCR with **cosign-signed images** + **SPDX SBOM attestation**
+- Terraform IaC for **AWS Lambda** (arm64 container, ECR, IAM least-priv, Function URL or API Gateway v2) and **GCP Cloud Run**
+- Keyless deploys via GitHub OIDC trust role · CodeQL · Dependabot · CODEOWNERS
+
+→ [github.com/defnalk/meapy](https://github.com/defnalk/meapy)
 
 ---
 
