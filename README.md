@@ -6,7 +6,7 @@
 
 ## About
 
-I'm interested in using molecular simulation to understand how interfaces behave in energy and environmental systems — from electrochemical devices to carbon capture processes. My work bridges computational chemistry and process systems engineering, with a focus on turning molecular-scale insight into practical decarbonisation strategies. I'm a Laidlaw Scholar and an incoming SURF Fellow at Caltech.
+I'm a chemical engineering student interested in computational modelling, energy systems, and the engineering challenges behind decarbonisation. I enjoy building tools that connect simulation and data analysis to real process design problems. I'm a Laidlaw Scholar and a research fellow at Caltech.
 
 ---
 
