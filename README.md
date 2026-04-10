@@ -1,6 +1,6 @@
 # Defne Nihal Ertugrul
 
-**MEng Chemical Engineering @ Imperial College London | Incoming SURF Fellow @ Caltech | Harbour Energy Engineering Intern**
+**MEng Chemical Engineering @ Imperial College London
 
 ---
 
