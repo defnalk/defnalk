@@ -6,7 +6,7 @@
 
 ## About
 
-I work on molecular simulation of electrochemical interfaces — specifically how ion structure and transport at charged surfaces governs performance in energy storage and carbon capture systems. My research sits at the intersection of computational chemistry and process systems engineering, and I'm driven by the challenge of translating molecular-level insight into real decarbonisation pathways. I'm a Laidlaw Scholar and will be joining the Fong Lab at Caltech this summer as a SURF Fellow.
+I work on molecular simulation of electrochemical interfaces — specifically how ion structure and transport at charged surfaces governs performance in energy storage and carbon capture systems. My research sits at the intersection of computational chemistry and process systems engineering, and I'm driven by the challenge of translating molecular-level insight into real decarbonisation pathways. I'm a Laidlaw Scholar and an incoming SURF Fellow at Caltech.
 
 ---
 
