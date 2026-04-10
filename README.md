@@ -1,12 +1,12 @@
 # Defne Nihal Ertugrul
 
-**MEng Chemical Engineering @ Imperial College London | Caltech Research Fellow**
+**MEng Chemical Engineering @ Imperial College London**
 
 ---
 
 ## About
 
-I'm a chemical engineering student interested in computational modelling, energy systems, and the engineering challenges behind decarbonisation. I enjoy building tools that connect simulation and data analysis to real process design problems. I'm a Laidlaw Scholar and a research fellow at Caltech.
+I'm a chemical engineering student interested in computational modelling, energy systems, and the engineering challenges behind decarbonisation. I enjoy building tools that connect simulation and data analysis to real process design problems.
 
 ---
 
