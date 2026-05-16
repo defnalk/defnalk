@@ -1,7 +1,5 @@
 # Defne Nihal Ertugrul
 
-**MEng Chemical Engineering @ Imperial College London**
-
 ---
 
 ## About
