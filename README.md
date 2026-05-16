@@ -6,8 +6,7 @@
 
 ## About
 
-I'm a chemical engineering student interested in computational modelling, energy systems, and the engineering challenges behind decarbonisation. I enjoy building tools that connect simulation and data analysis to real process design problems.
-
+Building at the boundary of simulation, data, and energy systems.
 ---
 
 ## Featured Project: `meapy`
